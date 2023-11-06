@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Tab Title and Favicon Changer",
+  "name": "Manual Tab Cloaker",
   "description": "Takes Input And Customizes Tabs",
   "action": {
     "default_popup": "popup.html"
