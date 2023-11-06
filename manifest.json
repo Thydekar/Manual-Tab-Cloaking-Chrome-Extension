@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Title and Favicon Changer",
+  "description": "Takes Input And Customizes Tabs",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "version": "0.0.1",
+  "permissions": ["scripting"],
+  "host_permissions": ["<all_urls>"]
+}
